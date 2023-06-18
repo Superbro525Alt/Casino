@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Slot Machine
+* source:	https://sketchfab.com/3d-models/low-poly-slot-machine-d42ef425b3554abf9fc86e39a9b13389
+* author:	Bar0nline (https://sketchfab.com/bar0nline)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Slot Machine" (https://sketchfab.com/3d-models/low-poly-slot-machine-d42ef425b3554abf9fc86e39a9b13389) by Bar0nline (https://sketchfab.com/bar0nline) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
