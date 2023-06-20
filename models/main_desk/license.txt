@@ -1,0 +1,11 @@
+Model Information:
+* title:	Main Desk
+* source:	https://sketchfab.com/3d-models/main-desk-6746f66e1ec848deb47b0c147688b22b
+* author:	Bluenoseddonkey (https://sketchfab.com/Bluenoseddonkey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Main Desk" (https://sketchfab.com/3d-models/main-desk-6746f66e1ec848deb47b0c147688b22b) by Bluenoseddonkey (https://sketchfab.com/Bluenoseddonkey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
